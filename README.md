@@ -47,13 +47,13 @@ A student is considered *PASS* if their marks are 40 or above.
 3. Run the following command in the terminal:
 
 ```bash
-python student_manager.py
+python student_result_manager.py
 ```
 
 ## Sample Output
-
----- STUDENT MANAGER APP -----
 ```
+---- STUDENT MANAGER APP -----
+
 1. Add Student
 2. View Student
 3. Check Result
